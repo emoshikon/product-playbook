@@ -22,7 +22,7 @@
 - Rejected suggestions are not presented as accepted.
 
 **Supporting artifacts**
-- [UI guidance](../../references/ui-changes.md); link mockups when available.
+- [UI guidance](../ui-changes.md); link mockups when available.
 
 ## 2. Delivery Plan
 

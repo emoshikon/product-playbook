@@ -3,7 +3,7 @@
 **Status:** Draft  
 **Product Owner:** @pm  
 **Engineering Lead:** @lead  
-**Narrative:** [Launch story](../../philosophy/product-narratives.md) (illustrative placeholder)
+**Narrative:** [Launch story](../product-narratives.md) (illustrative placeholder)
 
 ## 1. Capabilities
 
@@ -22,7 +22,7 @@
 - Invalid inputs produce a documented error response.
 
 **Supporting artifacts**
-- [API guidance](../../references/api-design.md); add a linked OpenAPI specification and examples when agreed.
+- [API guidance](../api-design.md); add a linked OpenAPI specification and examples when agreed.
 
 ## 2. Delivery Plan
 
