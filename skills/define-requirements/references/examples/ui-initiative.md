@@ -9,7 +9,7 @@
 
 ## 1. Capabilities
 
-### CAP-001 — Review suggested matches
+### C1: Review suggested matches
 
 **Expected behavior**
 - Users can inspect suggested matches and accept or reject a suggestion.
@@ -28,9 +28,9 @@
 
 ## 2. Delivery Plan
 
-### M1 — Review a suggestion end to end
+### M1: Review a suggestion end to end
 - **Outcome:** A reviewer can inspect and act on a suggestion.
-- **Capabilities:** CAP-001
+- **Capabilities:** C1
 - **Status:** Planned
 - **Completion evidence:** Demo and accessibility review.
 

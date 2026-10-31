@@ -5,11 +5,11 @@
 **Status:** Draft  
 **Product Owner:** @pm  
 **Engineering Lead:** @lead  
-**Narrative:** [Launch story](../product-narratives.md) (illustrative placeholder)
+**Narrative:** [Link to narrative]
 
 ## 1. Capabilities
 
-### CAP-001 — Find candidate matches
+### C1: Find candidate matches
 
 **Expected behavior**
 - Given a customer record, return potential matching records with explainable confidence.
@@ -28,18 +28,18 @@
 
 ## 2. Delivery Plan
 
-### M1 — Validate matching behavior on representative cases
+### M1: Validate matching behavior on representative cases
 - **Outcome:** Demonstrate candidate matching and no-match behavior.
-- **Capabilities:** CAP-001
+- **Capabilities:** C1
 - **Status:** Planned
 - **Completion evidence:** Reviewed example cases and evaluation results.
 
 ## 3. Open Items
 
-### ITEM-001 — Confidence representation
+### ITEM-001: Confidence representation
 - **Type:** Question
 - **Context and proposal:** Agree on confidence semantics and consumer-facing field name.
-- **Related to:** CAP-001
+- **Related to:** C1
 - **Owner:** @pm
 - **Status:** Open
 

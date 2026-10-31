@@ -10,9 +10,9 @@
 
 ## 1. Capabilities
 
-Describe customer-visible or integration-visible abilities, not implementation tasks. Add optional interface specifications and examples where useful.
+Describe customer-visible or integration-visible abilities, not implementation tasks. Link supporting artifacts that define finer details rather than duplicating all their content here.
 
-### CAP-001 — [Capability]
+### C1: [Capability]
 
 **Expected behavior**
 - [Observable behavior]
@@ -24,14 +24,14 @@ Describe customer-visible or integration-visible abilities, not implementation t
 - [Verifiable outcomes]
 
 **Supporting artifacts**
-- [API schema, example inputs/outputs, UX mockups, etc., if needed]
+- [Link to API schema, example inputs/outputs, UX mockups, etc., with what it defines and whether it is agreed, proposed, or illustrative]
 
 ## 2. Delivery Plan
 
-### M1 — [Outcome-based milestone]
+### M1: [Outcome-based milestone]
 
 - **Outcome:** [What becomes possible]
-- **Capabilities:** CAP-001
+- **Capabilities:** C1
 - **Status:** Planned | In Progress | Delivered | Validated
 - **Target:** [Optional]
 - **Completion evidence:** [Demo, tests, customer validation, etc.]
@@ -41,12 +41,12 @@ Describe customer-visible or integration-visible abilities, not implementation t
 
 A selective working queue, **not** a complete decision log or meeting journal. Remove resolved items after updating the canonical sections; version history and source links preserve context.
 
-### ITEM-001 — [Question / proposed change / risk]
+### ITEM-001: [Question / proposed change / risk]
 
 - **Type:** Question | Change | Risk
 - **Context and proposal:** [What needs attention]
 - **Source:** [Meeting, Slack, PR, etc.]
-- **Related to:** CAP-001 / M1
+- **Related to:** C1 / M1
 - **Owner:** @name
 - **Status:** Open | Resolved
 - **Resolution:** [When resolved]

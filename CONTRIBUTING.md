@@ -4,7 +4,7 @@ This is an opinionated methodology. Contributions should improve clarity and red
 
 ## Initiative roles
 
-- **Product owner:** owns the narrative, scope, prioritization, and current agreed product behavior. Approves substantive changes to the living document.
+- **Product owner:** owns the narrative, scope, prioritization, and current agreed product behavior. Decides substantive changes to narrative intent, requirements, and supporting product definitions.
 - **Engineering lead and contributors:** challenge assumptions, provide feasibility and implementation evidence, and propose changes. Own implementation choices.
 - **AI assistant:** extracts evidence, highlights conflicts, drafts changes, and links sources. Never treats a merged PR or an ambiguous meeting remark as approval to rewrite product intent.
 
@@ -14,6 +14,8 @@ Submit a focused pull request explaining the friction it solves, an example, and
 
 Let real initiative work guide changes to the template and skills. Address recurring friction observed in use rather than adding speculative detail. New stored examples should come from actual delivery and reconciliation; the existing starter sketches only illustrate the structure.
 
-## Changing an initiative document
+## Changing initiative documents and artifacts
 
-Propose changes with a source link and affected capability/milestone. Minor editorial corrections may be merged normally; changes to behavior, scope, priorities, or acceptance criteria require product-owner review. Record unresolved proposals in Open Items, not in a mandatory meeting journal.
+Identify the affected document or artifact and the relevant section or element, with available source context and related capability or milestone labels when relevant. Keep references clear and propose coordinated updates when definitions conflict. Supporting artifacts can hold agreed detail without duplicating it in requirements prose. Minor editorial corrections may be merged normally.
+
+Changes to narrative purpose, outcome, beneficiaries, or success require an explicit product-owner decision. Changes to behavior, scope, priorities, or acceptance criteria also require product-owner approval, including when those details live in supporting artifacts. Record consequential unresolved proposals in requirements Open Items without creating a mandatory meeting journal.
