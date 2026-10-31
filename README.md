@@ -4,6 +4,8 @@ An opinionated, initiative-scoped way to define and deliver software products in
 
 **One initiative, one living product document, one bounded delivery lifecycle.** The product manager owns the document; engineers challenge and contribute; AI proposes changes but does not silently redefine the product.
 
+Read the thinking behind it: [Keeping decisions, requirements, and delivery in sync](docs/philosophy/README.md).
+
 ## Start here
 
 1. Write a **narrative** in whatever form best conveys the outcome: announcement, blog post, customer story, or vision. Include desired outcome and success metrics. See [narrative guidance](skills/define-initiative/references/product-narratives.md).
@@ -14,10 +16,14 @@ An opinionated, initiative-scoped way to define and deliver software products in
 
 ## Repository map
 
-- `docs/philosophy/`: why this model works.
+- [docs/philosophy/](docs/philosophy/README.md): the thinking behind the method.
 - `skills/`: portable, focused agent skills for defining and reconciling initiatives.
-- `skills/define-initiative/references/`: narrative, API, UI, acceptance, and milestone guidance, plus worked examples.
+- `skills/define-initiative/references/`: narrative, API, UI, acceptance, and milestone guidance, plus starter sketches.
 - `skills/define-initiative/assets/`: the canonical initiative document template.
 - `CONTRIBUTING.md`: ownership and contribution rules.
 
 This is not a universal PRD standard. Keep it lightweight, useful to humans, and easy to revise.
+
+## Improve through use
+
+This playbook is a starting skeleton. Use it on real initiatives, notice recurring friction, and bring proven improvements back into the template and skills. The current example files are starter sketches; add or replace them with examples tested through actual delivery and reconciliation.

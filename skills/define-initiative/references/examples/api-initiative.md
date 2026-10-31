@@ -1,5 +1,7 @@
 # Customer Matching API
 
+> Starter sketch illustrating the document structure. This has not been tested in real delivery and does not establish the level of detail an initiative needs.
+
 **Status:** Draft  
 **Product Owner:** @pm  
 **Engineering Lead:** @lead  
