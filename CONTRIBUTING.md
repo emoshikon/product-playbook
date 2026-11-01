@@ -16,6 +16,6 @@ Let real initiative work guide changes to the template and skills. Address recur
 
 ## Changing initiative documents and artifacts
 
-Identify the affected document or artifact and the relevant section or element, with available source context and related capability or milestone labels when relevant. Keep references clear and propose coordinated updates when definitions conflict. Supporting artifacts can hold agreed detail without duplicating it in requirements prose. Minor editorial corrections may be merged normally.
+Identify the affected document or artifact and the relevant section or element, with available source context and related feature or milestone labels when relevant. Keep references clear and propose coordinated updates when definitions conflict. Supporting artifacts can hold agreed detail without duplicating it in requirements prose. Minor editorial corrections may be merged normally.
 
 Changes to narrative purpose, outcome, beneficiaries, or success require an explicit product-owner decision. Changes to behavior, scope, priorities, or acceptance criteria also require product-owner approval, including when those details live in supporting artifacts. Record consequential unresolved proposals in requirements Open Items without creating a mandatory meeting journal.

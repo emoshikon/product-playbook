@@ -2,14 +2,16 @@
 
 > Starter sketch illustrating the document structure. This has not been tested in real delivery and does not establish the level of detail an initiative needs.
 
+Save as `prd-match-review-ui.md`.
+
 **Status:** Draft  
 **Product Owner:** @pm  
 **Engineering Lead:** @lead  
-**Narrative:** [Link to narrative]
+**Narrative:** [Link to `initiative-match-review-ui.md`]
 
-## 1. Capabilities
+## 1. Features
 
-### C1: Review suggested matches
+### F1: Review suggested matches
 
 **Expected behavior**
 - Users can inspect suggested matches and accept or reject a suggestion.
@@ -30,7 +32,7 @@
 
 ### M1: Review a suggestion end to end
 - **Outcome:** A reviewer can inspect and act on a suggestion.
-- **Capabilities:** C1
+- **Features:** F1
 - **Status:** Planned
 - **Completion evidence:** Demo and accessibility review.
 

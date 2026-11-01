@@ -2,14 +2,16 @@
 
 > Starter sketch illustrating the document structure. This has not been tested in real delivery and does not establish the level of detail an initiative needs.
 
+Save as `prd-customer-matching-api.md`.
+
 **Status:** Draft  
 **Product Owner:** @pm  
 **Engineering Lead:** @lead  
-**Narrative:** [Link to narrative]
+**Narrative:** [Link to `initiative-customer-matching-api.md`]
 
-## 1. Capabilities
+## 1. Features
 
-### C1: Find candidate matches
+### F1: Find candidate matches
 
 **Expected behavior**
 - Given a customer record, return potential matching records with explainable confidence.
@@ -30,7 +32,7 @@
 
 ### M1: Validate matching behavior on representative cases
 - **Outcome:** Demonstrate candidate matching and no-match behavior.
-- **Capabilities:** C1
+- **Features:** F1
 - **Status:** Planned
 - **Completion evidence:** Reviewed example cases and evaluation results.
 
@@ -39,7 +41,7 @@
 ### ITEM-001: Confidence representation
 - **Type:** Question
 - **Context and proposal:** Agree on confidence semantics and consumer-facing field name.
-- **Related to:** C1
+- **Related to:** F1
 - **Owner:** @pm
 - **Status:** Open
 

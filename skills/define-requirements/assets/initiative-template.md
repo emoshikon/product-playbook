@@ -1,5 +1,7 @@
 # [Initiative Name]
 
+Save as `prd-<initiative-name>.md`. Link the narrative at `initiative-<initiative-name>.md`.
+
 **Status:** Draft | Aligned | In Progress | GA | Archived  
 **Product Owner:** @name  
 **Engineering Lead:** @name  
@@ -8,11 +10,11 @@
 **Slack Channel:** [Link]  
 **Target GA:** [Date, optional]
 
-## 1. Capabilities
+## 1. Features
 
 Describe customer-visible or integration-visible abilities, not implementation tasks. Link supporting artifacts that define finer details rather than duplicating all their content here.
 
-### C1: [Capability]
+### F1: [Feature]
 
 **Expected behavior**
 - [Observable behavior]
@@ -31,7 +33,7 @@ Describe customer-visible or integration-visible abilities, not implementation t
 ### M1: [Outcome-based milestone]
 
 - **Outcome:** [What becomes possible]
-- **Capabilities:** C1
+- **Features:** F1
 - **Status:** Planned | In Progress | Delivered | Validated
 - **Target:** [Optional]
 - **Completion evidence:** [Demo, tests, customer validation, etc.]
@@ -46,7 +48,7 @@ A selective working queue, **not** a complete decision log or meeting journal. R
 - **Type:** Question | Change | Risk
 - **Context and proposal:** [What needs attention]
 - **Source:** [Meeting, Slack, PR, etc.]
-- **Related to:** C1 / M1
+- **Related to:** F1 / M1
 - **Owner:** @name
 - **Status:** Open | Resolved
 - **Resolution:** [When resolved]
@@ -56,7 +58,7 @@ A selective working queue, **not** a complete decision log or meeting journal. R
 _Complete at GA or agreed closure; freeze/archive after any defined stabilization window._
 
 - **GA / closure date:** [Date]
-- **What shipped:** [Delivered capabilities and evidence]
+- **What shipped:** [Delivered features and evidence]
 - **Deferred / known limitations:** [Items]
 - **Follow-up initiatives:** [Links]
 - **Final status:** Archived

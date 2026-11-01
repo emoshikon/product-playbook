@@ -10,9 +10,9 @@ Read the thinking behind it: [Keeping decisions, requirements, and delivery in s
 
 ## Start here
 
-1. Explore or write a **narrative** with [Write Initiative Narrative](skills/write-initiative-narrative/SKILL.md). Use whatever form conveys who benefits, the lasting change for them, why it matters, and what success means.
-2. Copy [the requirements template](skills/define-requirements/assets/initiative-template.md) into your initiative as `product.md`. Link the narrative. Add epic or discussion links when useful.
-3. Work through capabilities, delivery milestones, and open items with the team. Link supporting artifacts and identify what they define. Use [Define Requirements](skills/define-requirements/SKILL.md) to draft or refine the agreement.
+1. Explore or write a **narrative** with [Write Initiative Narrative](skills/write-initiative-narrative/SKILL.md). Save it as `initiative-<initiative-name>.md`. Use whatever form conveys who benefits, the lasting change for them, why it matters, and what success means.
+2. Copy [the requirements template](skills/define-requirements/assets/initiative-template.md) into your initiative as `prd-<initiative-name>.md`. Link `initiative-<initiative-name>.md`. Add epic or discussion links when useful.
+3. Work through features, delivery milestones, and open items with the team. Link supporting artifacts and identify what they define. Use [Define Requirements](skills/define-requirements/SKILL.md) to draft or refine the agreement.
 4. Check both documents and affected supporting artifacts against new evidence using [Reconcile Initiative](skills/reconcile-initiative/SKILL.md). The product owner decides substantive changes wherever the product definition lives.
 5. At general availability (GA) or agreed closure, compare delivery with requirements and narrative success. Record deferred work and unknown outcomes. Archive requirements after confirmation. Subsequent iterations get a new initiative linked to the old one.
 

@@ -25,4 +25,6 @@ Evergreen means focusing on lasting intent, not forbidding revision. Changes to 
 
 ## Connect to requirements
 
+Save the narrative as `initiative-<initiative-name>.md`.
+
 Keep the narrative separate and link it from the living requirements rather than duplicating it there. Link supporting context where useful without making the narrative depend on a particular solution. For detailed requirements, use `define-requirements` when available. Hand over collected requirement details, relevant artifact links, and unresolved questions without expanding this skill into requirements definition. When agreed narrative intent changes, flag affected requirements and supporting definitions for review.
