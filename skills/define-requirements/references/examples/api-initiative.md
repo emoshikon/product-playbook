@@ -36,15 +36,17 @@ Save as `prd-customer-matching-api.md`.
 - **Status:** Planned
 - **Completion evidence:** Reviewed example cases and evaluation results.
 
+### M2: Make the matching API generally available
+- **Outcome:** Intended consumers can use F1 with the agreed matching, no-match, and error behavior.
+- **Features:** F1
+- **Status:** Planned
+- **Completion evidence:** Contract checks against agreed schemas and examples, consumer validation, and evidence against narrative success measures with unmeasured outcomes explicit.
+- **Dependencies / blockers:** Agree on confidence semantics and field representation for F1 before finalizing the contract.
+
 ## 3. Open Items
 
-### ITEM-001: Confidence representation
-- **Type:** Question
-- **Context and proposal:** Agree on confidence semantics and consumer-facing field name.
-- **Related to:** F1
-- **Owner:** @pm
-- **Status:** Open
+1. What confidence semantics and consumer-facing field name should F1 use? The contract and M2 depend on this agreement.
 
-## 4. Closure
+## 4. Appendix: Rejected ideas and decisions
 
-_To be completed at GA._
+_None yet._

@@ -1,5 +1,7 @@
 # Initiative suite review
 
+Historical review of earlier guidance. Its Closure, archival, and structured Open Items expectations are superseded by the [current requirements template](../../skills/define-requirements/assets/initiative-template.md) and skills. Current guidance uses numbered Open Items, a selective decisions appendix, and milestone-based completion.
+
 Reviewed October 31, 2026. The suite now separates lasting narrative intent, evolving requirements, and reconciliation against evidence. This review found and repaired handoff and ownership gaps without changing the requirements template structure.
 
 ## Scope and method

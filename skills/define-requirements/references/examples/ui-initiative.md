@@ -36,10 +36,16 @@ Save as `prd-match-review-ui.md`.
 - **Status:** Planned
 - **Completion evidence:** Demo and accessibility review.
 
+### M2: Make match review generally available
+- **Outcome:** Intended reviewers can use F1 to inspect suggestions, understand the rationale, and confirm decisions.
+- **Features:** F1
+- **Status:** Planned
+- **Completion evidence:** Validation of the agreed review flow, keyboard access, and decision confirmation, plus evidence against narrative success measures with unmeasured outcomes explicit.
+
 ## 3. Open Items
 
 _None yet._
 
-## 4. Closure
+## 4. Appendix: Rejected ideas and decisions
 
-_To be completed at GA._
+_None yet._

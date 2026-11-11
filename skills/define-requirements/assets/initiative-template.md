@@ -2,7 +2,7 @@
 
 Save as `prd-<initiative-name>.md`. Link the narrative at `initiative-<initiative-name>.md`.
 
-**Status:** Draft | Aligned | In Progress | GA | Archived  
+**Status:** Draft | Aligned | In Progress | GA | Complete  
 **Product Owner:** @name  
 **Engineering Lead:** @name  
 **Narrative:** [Link]  
@@ -30,6 +30,10 @@ Describe customer-visible or integration-visible abilities, not implementation t
 
 ## 2. Delivery Plan
 
+The last milestone defines initiative completion, including general availability (GA) where applicable, through its outcome and completion evidence.
+
+Only milestone entries list included features in their **Features** field. Feature definitions describe agreed behavior independently of release scheduling and never mention milestones, milestone labels, release membership, or milestone assignments.
+
 ### M1: [Outcome-based milestone]
 
 - **Outcome:** [What becomes possible]
@@ -41,24 +45,10 @@ Describe customer-visible or integration-visible abilities, not implementation t
 
 ## 3. Open Items
 
-A selective working queue, **not** a complete decision log or meeting journal. Remove resolved items after updating the canonical sections; version history and source links preserve context.
+Keep a simple numbered list of consequential issues and questions, including what needs answering and any dependencies. Remove resolved items after updating the current agreement.
 
-### ITEM-001: [Question / proposed change / risk]
+1. [Issue or question that needs an answer, including consequential dependencies.]
 
-- **Type:** Question | Change | Risk
-- **Context and proposal:** [What needs attention]
-- **Source:** [Meeting, Slack, PR, etc.]
-- **Related to:** F1 / M1
-- **Owner:** @name
-- **Status:** Open | Resolved
-- **Resolution:** [When resolved]
+## 4. Appendix: Rejected ideas and decisions
 
-## 4. Closure
-
-_Complete at GA or agreed closure; freeze/archive after any defined stabilization window._
-
-- **GA / closure date:** [Date]
-- **What shipped:** [Delivered features and evidence]
-- **Deferred / known limitations:** [Items]
-- **Follow-up initiatives:** [Links]
-- **Final status:** Archived
+Retain rejected ideas and decisions made when their rationale or context will help future readers. Keep unresolved proposals in Open Items. This appendix is selective, not a chronological change log or an entry for every edit.
